@@ -1,20 +1,18 @@
 # espace-connection
 
 
-##EN BREF POUR CE PROJET --> OBLIGATION DE :
+### EN BREF POUR CE PROJET --> OBLIGATION DE :
 
-  Fractionner avec Sass pour le Css : [doc](https://sass-lang.com/)
+  - Fractionner avec Sass pour le Css : [doc](https://sass-lang.com/).
 
-  Utiliser MVC et SYMFONY pour le back: [doc](http://knpbundles.com/)
+  - Utiliser MVC et SYMFONY pour le back: [doc](http://knpbundles.com/).
+    
+  - Utiliser firestore pour la DataBase: [doc](https://firebase.google.com/docs/firestore/).
+    
+  - Commentez clairement le plus possible !!!
     
 
-  Utiliser firestore pour la DataBase: [doc](https://firebase.google.com/docs/firestore/)
-    
-
-  Commentez clairement le plus possible !!!
-    
-
-##EN LONG :   
+### EN LONG :   
 
 [Bonnes pratiques en CSS](https://www.alsacreations.com/article/lire/1641-BonnespratiquesenCSSBEMetOOCSS.html), à lire !
 
